@@ -1,2 +1,12 @@
+com.tibco.bw.core.design.debug.ui.launch.existingApplications=MyRESTSvc/
+com.tibco.bw.core.design.debug.ui.launch.processesArg=MyRESTSvc\=myrestsvc.module.Process/
+com.tibco.bw.core.design.debug.ui.launch.selectedApplications=MyRESTSvc/
+com.tibco.bw.core.design.debug.ui.launch.selectedModules=MyRESTSvc.module/
+com.tibco.bw.core.design.debug.ui.launch.selectedProcesses=MyRESTSvc.module\=myrestsvc.module.Process/
+com.tibco.bw.core.design.debug.ui.view.BWProcessInstanceView+com.tibco.bw.core.design.debug.ui.actions.BWShowInstanceSatckByTempleteAction=true
 eclipse.preferences.version=1
+org.eclipse.debug.ui.DebugView+com.tibco.bw.core.design.debug.ui.actions.BWShowStackByTempleteAction=true
 org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<launchPerspectives/>\n
+org.eclipse.debug.ui.activate_debug_view=false
+org.eclipse.debug.ui.activate_workbench=false
+preferredDetailPanes=DefaultDetailPane\:DefaultDetailPane|
